@@ -11,6 +11,8 @@ Plug 'neoclide/coc.nvim', {'branch':'release'}
 Plug 'preservim/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'nikvdp/ejs-syntax'
+Plug 'mechatroner/rainbow_csv'
+Plug 'vim-airline/vim-airline'
 
 call plug#end()
 
