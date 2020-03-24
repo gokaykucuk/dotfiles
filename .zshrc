@@ -114,6 +114,6 @@ export AWS_SDK_LOAD_CONFIG=1 # To inject aws settings to nodejs SDK
 export EDITOR=nvim
 export VISUAL=nvim
 
+eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 eval $(thefuck --alias)
 
-eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
